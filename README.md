@@ -1,11 +1,6 @@
-## My Project
+## Debiased-Balanced-Interleaving
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+This git repo keeps the code for generating the results in the CIKM 2022 paper "Debiased Balanced Interleaving at Amazon Search".
 
 ## Security
 
